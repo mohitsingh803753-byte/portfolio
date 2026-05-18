@@ -1,0 +1,21 @@
+body {
+  background-color: black;
+  color: white;
+}
+h3 {
+  text-decoration-line: underline;
+}
+h2 {
+  text-decoration-line: underline;
+}
+p {
+  font-style: italic;
+}
+li {
+  font-style: oblique;
+}
+
+#photo {
+  width: 200px;
+  height: 200px;
+}
